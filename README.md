@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thibaut</h1>
 <h3 align="center">Cybersecurity & Ethical Hacking student at Efrei.</h3>
+<br>
 
-
-- 📫 How to reach me : **thibaut.genet@efrei.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thibautgnt](https://github.com/thibautgnt)
 
 - 📄 Know about my experiences : [View my resume](https://drive.google.com/file/d/1YoIPriYApwCa2pO0ka07YBFrQFVmxI2k/view)
+
+- 📫 How to reach me : **thibaut.genet@efrei.net**
 
 - ⚡ Fun fact : **I made my first HTML website at 12**
 
