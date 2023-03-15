@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **thibaut.genet@efrei.net**
 
-- ⚡ Fun fact : **I made my first HTML website at 12**
+- ⚡ Fun fact : **I made my first website using HTML & CSS at 12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
