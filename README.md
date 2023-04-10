@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thibaut</h1>
-<h3 align="center">Cybersecurity & Ethical Hacking student at Efrei.</h3>
+<h3 align="center">Cybersecurity & Ethical Hacking student at Efrei</h3>
 <br>
 
 
