@@ -11,7 +11,7 @@
 # 🖨️ Tech Stack:
 
 ### 🖥️ Techs  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,c,cpp,mysql,postgres,java,markdown)]()  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,php,c,cpp,mysql,postgres,java,markdown)]()  
 
 ### 🚀 Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nodejs,tailwind,bootstrap)]()  
